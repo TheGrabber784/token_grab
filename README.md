@@ -1,4 +1,6 @@
-Token Grabber undetected by antiviruses + bypass VirusTotal
+![image](https://github.com/TheGrabber784/token_grab/assets/151453260/e8646304-a4e0-4c61-818f-105645916f05)
+
+Cap_Grabber is one of the best token grabber! Fully undetected by antiviruses + bypass VirusTotal!
 
 Features :
 Discord token info
